@@ -9,6 +9,7 @@ int main()
     if (age >= 18)
     {
         printf("you can vote");
+    }
     else if (age > 10)
     {
         printf("you are between 10 and 18 so you cannot vote till you are 18");
