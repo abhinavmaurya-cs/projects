@@ -8,7 +8,6 @@ int main(){
     a();
     a();
       b();
-return 0;
 
  }
 int a() /* a ke saamne jo bracket hai agr vo khaali hai toh yeh takes nothing gives nothing example*/
